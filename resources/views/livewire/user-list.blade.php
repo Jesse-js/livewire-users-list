@@ -1,4 +1,5 @@
-<div>
+<div wire:poll.visible.keep-alive.5s>
+    <h1 class="mt-4">Users List</h1>
     <table class="table table-striped">
         <thead>
             <tr>
